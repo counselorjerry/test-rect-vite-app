@@ -74,7 +74,7 @@ function App() {
   }
 
   return (
-    <main className="app-shell">
+    <main className="app-shell" style={{ backgroundColor: 'red' }}>
       <section className="hero card">
         <div className="hero-copy">
           <p className="eyebrow">Single Page React + Vite Test Bench</p>
