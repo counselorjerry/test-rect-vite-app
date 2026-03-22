@@ -308,3 +308,14 @@ select {
     font-size: 2.3rem;
   }
 }
+
+/* Blue button variant for explicit blue CTA */
+.button-blue {
+  background: #2563eb; /* blue-600 */
+  color: #fff;
+  border-color: transparent;
+}
+
+.button-blue:hover {
+  background: #1d4ed8; /* blue-700 */
+}
